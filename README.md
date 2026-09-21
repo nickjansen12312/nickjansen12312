@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/nickjansen12312">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=677d59&fontSize=54&height=90&width=506&text=%2F%2F𓆝 𓆟Nick%20Jansen𓆝 𓆟" alt="𓆝 𓆟 Nick Jansen 𓆝 𓆟" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=677d59&fontSize=54&height=90&width=506&text=%2F%2FNick%20Jansen" alt="𓆝 𓆟 Nick Jansen 𓆝 𓆟" />
   </a>
 </p>
 
