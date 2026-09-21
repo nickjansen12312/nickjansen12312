@@ -19,6 +19,3 @@ Hi, my name is Nick Jansen. New project, hopefully soon.
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=nickjansen12312&bg_color=00000000&color=677d59&line=677d59&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/nickjansen12312">nickjansen12312</a></i></p>
